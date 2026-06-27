@@ -74,3 +74,6 @@ Support diversity-focused decision-making
 ⭐ Project Outcome
 
 The dashboard provides HR professionals with an interactive solution to monitor diversity, identify trends, and make informed workforce decisions using data-driven insights.
+
+<img width="555" height="280" alt="image" src="https://github.com/user-attachments/assets/fca3d7b2-f71e-4600-8a20-096fb039d297" />
+
